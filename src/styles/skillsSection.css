@@ -73,7 +73,12 @@
  .skills-section {
       align-items: center;
     }
-
+  .skills-section-heading {
+    font-size: 40px;
+  }
+  .skills-section-title {
+    font-size: 28px;
+  }
  .skills-section-card {
       align-items: center;
     }

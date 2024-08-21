@@ -51,6 +51,9 @@
     display: flex;
     flex-direction: column;
   }
+  .main-section-title {
+    font-size: 50px;
+  }
   .main-section-content {
     align-items: center;
   }
