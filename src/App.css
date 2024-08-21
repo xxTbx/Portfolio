@@ -105,6 +105,11 @@ a {
   text-decoration: none;
 }
 
+.logo {
+  width: 5%;
+  max-width: 100%;
+}
+
 
 /* Responsive */
 @media only screen and (max-width: 1200px) {
@@ -191,6 +196,9 @@ a {
     position: absolute;
     top: 25px;
     right: 25px;
+  }
+  .logo {
+    width: 30px;
   }
 
   .nav__hamburger__line {
