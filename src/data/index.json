@@ -1,0 +1,51 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/icons8-front-end-64.png",
+      "title": "Front-End",
+      "description": "I have solid skills in front-end development, gained through both my studies and personal projects"
+    },
+    {
+      "id": "2",
+      "src": "./img/icons8-backend-50.png",
+      "title": "Back-End",
+      "description": "Experienced in back-end development with Java, C# and database management, focusing on server-side logic and efficient data handling."
+    },
+    {
+      "id": "3",
+      "src": "./img/icons8-cloud-service-68.png",
+      "title": "Cloud services",
+      "description": "Proficient in Azure cloud services, demonstrated through my bachelor project at Evidi, where I successfully deployed and managed scalable cloud solutions."
+    },
+    {
+      "id": "4",
+      "src": "img/icons8-deployment-50.png",
+      "title": "Deployment",
+      "description": "Experienced in deploying and configuring web applications on Linux servers using Apache, ensuring performance and security"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/bachelorProject.png",
+      "title": "Bachelor project",
+      "description": "Executed a bachelor project utilizing .NET, C#, JavaScript, and Microsoft Azure",
+      "link": "https://github.com/xxTbx/BachelorProject" 
+    },
+    {
+      "id": "2",
+      "src": "./img/react-sanity-project.png",
+      "title": "React & Sanity",
+      "description": "A fully functional React and Sanity application developed for an exam project",
+      "link": "https://github.com/xxTbx/JS-React-Sanity/tree/main/react_oppgave_3"
+    },
+    {
+      "id": "3",
+      "src": "./img/webProject.png",
+      "title": "Design-Focused Website",
+      "description": "Basic website with a focus on design",
+      "link": "https://github.com/xxTbx/WebDesign"
+    }
+  ]
+}
