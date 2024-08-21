@@ -10,7 +10,7 @@
       "id": "2",
       "src": "./img/icons8-backend-50.png",
       "title": "Back-End",
-      "description": "Experienced in back-end development with Java, C# and database management, focusing on server-side logic and efficient data handling."
+      "description": "Experienced in back-end development with Java, C#, clous services and database management"
     },
     {
       "id": "3",
@@ -22,7 +22,7 @@
       "id": "4",
       "src": "img/icons8-deployment-50.png",
       "title": "Deployment",
-      "description": "Experienced in deploying and configuring web applications on Linux servers using Apache, ensuring performance and security"
+      "description": "Experienced in deploying and configuring web applications on Linux servers using Apache, with a focus on security"
     }
   ],
   "portfolio": [
