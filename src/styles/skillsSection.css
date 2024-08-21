@@ -81,9 +81,12 @@
   }
  .skills-section-card {
       align-items: center;
-    }
+  }
 
  .skills-section-card-content {
       align-items: center;
-    }
+  }
+  .skills-section-description {
+    font-size: 17px;
+  }
 }

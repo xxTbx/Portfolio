@@ -114,19 +114,13 @@ a {
   h1,h2 {
     font-size: 40px;
   }
-  p {
-    text-align: center;
-  }
+
   .main-section {
     display: flex;
     flex-direction: column;
     padding-bottom: 70px;
   }
-  .main-section-title,
-  .main-section-description,
-  .footer-content {
-    text-align: center;
-  }
+ 
   .skills-section-container,
   .about-section,
   .portfolio-section-container,
@@ -167,6 +161,9 @@ a {
   .main-section-content-box {
     gap: 10px;
   }
+  .text-md {
+    font-size: 13px
+  };
 
   .container {
     display: flex;
