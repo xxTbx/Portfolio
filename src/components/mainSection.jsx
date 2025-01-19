@@ -7,7 +7,7 @@ export default function MainSection() {
         <div className="main-section-content">
           <p className="section-title">xxTbx</p>
           <h1 className="main-section-title">
-            Fullstack-Developer
+            Fullstack-Developer / Cybersecurity specialist
           </h1>
         </div>
       </div>
