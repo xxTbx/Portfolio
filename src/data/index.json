@@ -21,8 +21,20 @@
     {
       "id": "4",
       "src": "img/icons8-deployment-50.png",
-      "title": "Deployment",
-      "description": "Experienced in deploying and configuring web applications on Linux servers using Apache, with a focus on security"
+      "title": "Linux",
+      "description": "Experienced in working with Linux, including Kali Linux, Apache, and various deployments on Apache, with a focus on security and system configuration."
+    },
+    {
+      "id": "5",
+      "src": "img/icons8-deployment-50.png",
+      "title": "Firewall",
+      "description": "Experienced with firewalls like Sophos XG Firewall and Sophos in a virtual environment using VMware, including configuring networks and ensuring security"
+    }, 
+    {
+      "id": "6",
+      "src": "img/icons8-deployment-50.png",
+      "title": "DevOps and Github",
+      "description": "Experienced with DevOps tools and workflows, including GitHub for version control and collaboration, as well as integrating continuous integration/continuous deployment (CI/CD) pipelines."
     }
   ],
   "portfolio": [
